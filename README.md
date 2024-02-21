@@ -9,7 +9,7 @@ I am actively working on enhancing my web development skills and crafting intuit
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [here](http://constayush.github.io/portfolio/)
 * ✉️  You can contact me at [aayush@mail.com](mailto:aayush@mail.com)
-* 🧠  I'm learning React.js
+* 🧠  I'm learning MERN stack
 
 ### Skills
 
