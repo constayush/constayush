@@ -7,7 +7,7 @@ ________________________________________________________________________________
 I am actively working on enhancing my web development skills and crafting intuitive user interfaces with CSS or adding powerful functionality with JavaScript and React.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [here](http://constayush.github.io/portfolio/)
+* 🖥️  See my portfolio at [here](http://constayush.vercel.app/)
 * ✉️  You can contact me at [aayush@mail.com](mailto:aayush@mail.com)
 * 🧠  I'm learning MERN stack
 
