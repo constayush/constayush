@@ -1,7 +1,7 @@
 <h1>💫 Hi, I'm Ayush</h1>
 
 ____________________________________________________________________________________________________________________________________________________________________
-<h2>Web Developer</h2>
+<h2>Ui Developer</h2>
 -------------
 
 I am actively working on enhancing my web development skills and crafting intuitive user interfaces with CSS or adding powerful functionality with JavaScript and React.
