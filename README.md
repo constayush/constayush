@@ -1,14 +1,15 @@
 <h1>💫 Hi, I'm Ayush</h1>
 
 ____________________________________________________________________________________________________________________________________________________________________
-<h2>Ui Developer</h2>
+<h2>Ui Engineer</h2>
 -------------
 
-I am actively working on enhancing my web development skills and crafting intuitive user interfaces with CSS or adding powerful functionality with JavaScript and React.
+ MERN Stack | Building seamless experiences with React, Tailwind CSS, and Next.js
+ Turning ideas into sleek, responsive web experiences!
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [here](http://constayush.vercel.app/)
-* ✉️  You can contact me at [aayush@mail.com](mailto:aayush@mail.com)
+* ✉️  You can contact me at [constayush@gmail.com](mailto:constayush@gmail.com)
 * 🧠  I'm learning MERN stack
 
 ### Skills
@@ -19,9 +20,6 @@ I am actively working on enhancing my web development skills and crafting intuit
 </p>
 
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/constayush"><img src="https://github-readme-streak-stats.herokuapp.com/?user=constayush&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 
