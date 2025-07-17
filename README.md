@@ -13,7 +13,7 @@ MERN Stack | Building seamless experiences with React, Tailwind CSS, and Next.js
 * 🧠  I'm learning MERN & DEVOPS
 * ⚡  I play chess & valorant too
 
-==============================================================
+================================================================
 ### Skills
 
 
