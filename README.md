@@ -1,4 +1,4 @@
-Hi ![]([https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmY5bzdxYjdkb2NiaTFhcGx5dDJ3aGlwNW52NWZpeGtmNGwzb3lsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBwrfo0qDWx932M/giphy.gif))My name is Ayush
+Hi🍊, My name is Ayush
 =============================================================================================================================
 
 I just write clean code & with sleek design
