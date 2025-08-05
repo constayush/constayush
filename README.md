@@ -6,12 +6,11 @@ I just write clean code & with sleek design
 
 MERN Stack | Building seamless experiences with React, Tailwind CSS, and Next.js Turning ideas into sleek, responsive web experiences!
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [Portfolio](http://constayush.vercel.app)
-* ✉️  You can contact me at [constayush@gmail.com](mailto:constayush@gmail.com)
+
+* [Portfolio](http://constayush.vercel.app)
+* ✉[constayush@gmail.com](mailto:constayush@gmail.com)
 * 🚀  I'm currently working on [Bugginator](http://bugginator.vercel.app)
-* 🧠  I'm learning MERN & DEVOPS
-* ⚡  I play chess & valorant too
+
 
 ================================================================
 
@@ -19,11 +18,11 @@ MERN Stack | Building seamless experiences with React, Tailwind CSS, and Next.js
 ### **Languages**
 ![My Languages](https://skillicons.dev/icons?i=python,javascript,typescript,bash,powershell&theme=dark)
 ### **Frameworks**
-![My Frameworks](https://skillicons.dev/icons?i=reactjs,nextjs,tailwindcss,nodejs,vue,bootstrap&theme=dark)
+![My Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwindcss,express,nodejs,zustand,expressjs&theme=dark)
 ### **Platforms**
-![My Platforms](https://skillicons.dev/icons?i=aws,gcp,docker,heroku,raspberrypi,linux&theme=dark)
+![My Platforms](https://skillicons.dev/icons?i=aws,gcp,docker,vercel,raspberrypi,linux&theme=dark)
 ### **Databases & etc.**
-![My Platforms](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,nginx,prisma,figma,githubactions,grafana,ps,tensorflow,wordpress&theme=dark)
+![My Platforms](https://skillicons.dev/icons?i=mysql,postgresql,zod,mongodb,nginx,prisma,figma,grafana,ps,tensorflow,wordpress&theme=dark)
 
 =================================================================
 
