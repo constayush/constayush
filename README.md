@@ -1,14 +1,14 @@
 Hi🍊, My name is Ayush
 =============================================================================================================================
 
-I just write clean code & with sleek design
+Clean code. Sleek design. That’s my standard.
 -------------------------------------------
 
 MERN Stack | Building seamless experiences with React, Tailwind CSS, and Next.js Turning ideas into sleek, responsive web experiences!
 
 
 * [Portfolio](http://constayush.vercel.app)
-* ✉[constayush@gmail.com](mailto:constayush@gmail.com)
+* [constayush@gmail.com](mailto:constayush@gmail.com)
 * 🚀  I'm currently working on [Bugginator](http://bugginator.vercel.app)
 
 
@@ -18,11 +18,11 @@ MERN Stack | Building seamless experiences with React, Tailwind CSS, and Next.js
 ### **Languages**
 ![My Languages](https://skillicons.dev/icons?i=python,javascript,typescript,bash,powershell&theme=dark)
 ### **Frameworks**
-![My Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwindcss,express,nodejs,zustand,expressjs&theme=dark)
+![My Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwindcss,express,nodejs&theme=dark)
 ### **Platforms**
 ![My Platforms](https://skillicons.dev/icons?i=aws,gcp,docker,vercel,raspberrypi,linux&theme=dark)
 ### **Databases & etc.**
-![My Platforms](https://skillicons.dev/icons?i=mysql,postgresql,zod,mongodb,nginx,prisma,figma,grafana,ps,tensorflow,wordpress&theme=dark)
+![My Platforms](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,nginx,prisma,figma,grafana,ps,tensorflow,wordpress&theme=dark)
 
 =================================================================
 
