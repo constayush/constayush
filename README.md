@@ -1,15 +1,15 @@
 Hi🍊, My name is Ayush
 =============================================================================================================================
 
-Clean code. Sleek design. That’s my standard.
+Clean code. Sleek design
 -------------------------------------------
 
-MERN Stack | Building seamless experiences with React, Tailwind CSS, and Next.js Turning ideas into sleek, responsive web experiences!
+MERN Stack | AWS | Building seamless experiences with React, Tailwind CSS, and Next.js Turning ideas into sleek, responsive web experiences!
 
 
 * [Portfolio](http://constayush.vercel.app)
 * [constayush@gmail.com](mailto:constayush@gmail.com)
-* 🚀  I'm currently working on [Bugginator](http://bugginator.vercel.app)
+* 🚀  I'm currently working on [Boxlit](http://boxlit.vercel.app)
 
 
 ================================================================
