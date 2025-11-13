@@ -1,5 +1,5 @@
 
-#Ayush Srivastava
+Ayush Srivastava (constayush)
 =============================================================================================================================
 
 Clean code. Sleek design. Full-stack chaos tamed.
@@ -18,20 +18,14 @@ I love the web, I love Web3, I love AI, and I love embedded systems. If it runs 
 
 # 💻 Tech Stack:
 ### **Languages**
-![My Languages](https://skillicons.dev/icons?i=python,javascript,typescript&theme=dark)
+![My Languages](https://skillicons.dev/icons?i=c,python,javascript,typescript&theme=dark)
 ### **Frameworks**
-![My Frameworks](https://skillicons.dev/icons?i=react,vite,nextjs,tailwindcss,postgress,express,nodejs,redis&theme=dark)
+![My Frameworks](https://skillicons.dev/icons?i=react,vite,nextjs,tailwindcss,express,nodejs,redis&theme=dark)
 ### **Platforms**
 ![My Platforms](https://skillicons.dev/icons?i=aws,gcp,docker,vercel,raspberrypi,arch,arduino,linux&theme=dark)
 ### **Databases & etc.**
 ![My Platforms](https://skillicons.dev/icons?i=mysql,postgresql,bash,powershell,mongodb,nginx,prisma,figma,grafana,ps,tensorflow,wordpress&theme=dark)
 
 -------------------------------------------
-
-### Badges
-
-<a href="https://github.com/constayush" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constayush&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=constayush&theme=dark&hide_border=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=constayush&color=blueviolet&style=for-the-badge)
