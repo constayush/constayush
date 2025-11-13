@@ -1,36 +1,37 @@
-Hi🍊, My name is Ayush
+
+#Ayush Srivastava
 =============================================================================================================================
 
-Clean code. Sleek design
+Clean code. Sleek design. Full-stack chaos tamed.
 -------------------------------------------
 
-MERN Stack | AWS | Building seamless experiences with React, Tailwind CSS, and Next.js Turning ideas into sleek, responsive web experiences!
+I’m that kid who never grew out of breaking gadgets just to see how they worked — except now I actually know how to put them back together (most of the time).
+From shipping pixel-perfect UIs to fiddling with Raspberry Pis and Arduinos at 3AM, I’m obsessed with building things that feel alive — software, hardware, or that weird place where both shake hands.
 
+I love the web, I love Web3, I love AI, and I love embedded systems. If it runs on electricity or executes JavaScript, I probably want to build on it.
 
 * [Portfolio](http://constayush.vercel.app)
 * [constayush@gmail.com](mailto:constayush@gmail.com)
-* 🚀  I'm currently working on [Boxlit](http://boxlit.vercel.app)
+* 🚀  I'm currently working on [Callarity](callarity-frontend.vercel.app)
 
-
-================================================================
+-------------------------------------------
 
 # 💻 Tech Stack:
 ### **Languages**
-![My Languages](https://skillicons.dev/icons?i=python,javascript,typescript,bash,powershell&theme=dark)
+![My Languages](https://skillicons.dev/icons?i=python,javascript,typescript&theme=dark)
 ### **Frameworks**
-![My Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwindcss,express,nodejs&theme=dark)
+![My Frameworks](https://skillicons.dev/icons?i=react,vite,nextjs,tailwindcss,postgress,express,nodejs,redis&theme=dark)
 ### **Platforms**
-![My Platforms](https://skillicons.dev/icons?i=aws,gcp,docker,vercel,raspberrypi,linux&theme=dark)
+![My Platforms](https://skillicons.dev/icons?i=aws,gcp,docker,vercel,raspberrypi,arch,arduino,linux&theme=dark)
 ### **Databases & etc.**
-![My Platforms](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,nginx,prisma,figma,grafana,ps,tensorflow,wordpress&theme=dark)
+![My Platforms](https://skillicons.dev/icons?i=mysql,postgresql,bash,powershell,mongodb,nginx,prisma,figma,grafana,ps,tensorflow,wordpress&theme=dark)
 
-=================================================================
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/constayush" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.x.com/constayush" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a></p>
-=================================================================
+-------------------------------------------
 
 ### Badges
 
 <a href="https://github.com/constayush" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constayush&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=constayush&theme=dark&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=constayush&color=blueviolet&style=for-the-badge)
